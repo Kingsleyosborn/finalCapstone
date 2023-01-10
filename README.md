@@ -21,6 +21,6 @@ If you choose the view all product, type 1. The program will show all the invent
 ![Screenshot_20230110_033202](https://user-images.githubusercontent.com/111707331/211593900-1a435eb5-9ca3-445a-acbd-1238399d5d94.png)
 
 
-The other function of this program is pretty much self explanatory.
+The other functions of this program are pretty much self explanatory.
 
 Enjoy!
