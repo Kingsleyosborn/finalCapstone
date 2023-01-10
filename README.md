@@ -1,7 +1,7 @@
 # finalCapstone
 
-It is not the final capstone
-It is capstone 32 using git bash uploading it remotely
+#It is not the final capstone
+#It is capstone 32 using git bash uploading it remotely
 
 
 The project is a shoes inventory project.
